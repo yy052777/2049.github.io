@@ -1,0 +1,6 @@
+进入已存在项目根目录，打开git bash，执行命令，初始化仓库
+git init
+Initialized empty Git repository in D:/IdeaProjects/spb-wuyc-project/.git/
+
+配置远端仓库
+git remote add origin https://github.com/yy052777/2049.github.io.git
